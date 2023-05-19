@@ -1,7 +1,9 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://mir-s3-cdn-cf.behance.net/6c56b9ee9770c03ef3020199a36bd49a/6c8b5472-1025-45e5-ae28-dec6e0604816_rwc_271x0x2927x410x3200.png?h=0fd5d6ad0cfab3f6f65671c1dcedfb56)]
+<img align="center" alt="banner" width="1000" src="https://mir-s3-cdn-cf.behance.net/6c56b9ee9770c03ef3020199a36bd49a/6c8b5472-1025-45e5-ae28-dec6e0604816_rwc_271x0x2927x410x3200.png?h=0fd5d6ad0cfab3f6f65671c1dcedfb56">
 
-<h1 align="center">Hi 👋, I'm Lubomila Lozanova, but you can call me Mila</h1>
-<h3 align="center">A passionate frontend developer based in England</h3>
+<h1 align="center">Hello 👋, I'm Mila Lozanova</h1>
+
+<h3 align="left">A passionate frontend developer based in England</h3>
+
 
 - 🌱 I’m currently learning **Node.js and React**
 
