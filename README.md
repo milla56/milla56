@@ -1,4 +1,5 @@
-<img align="center" alt="banner" width="1000"  src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/03a122171035425.6467bd327e284.png">
+<img align="center" alt="banner" width="1000"  
+     src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5229cb171035425.6467c176ce0d2.png">
 
 <h1 align="center">Hello 👋, I'm Mila Lozanova</h1>
 
