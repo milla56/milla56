@@ -1,10 +1,10 @@
-<img align="center" alt="banner" width="1000" src="https://mir-s3-cdn-cf.behance.net/6c56b9ee9770c03ef3020199a36bd49a/6c8b5472-1025-45e5-ae28-dec6e0604816_rwc_271x0x2927x410x3200.png?h=0fd5d6ad0cfab3f6f65671c1dcedfb56">
+<img align="center" alt="banner" width="1000"  src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/03a122171035425.6467bd327e284.png">
 
 <h1 align="center">Hello 👋, I'm Mila Lozanova</h1>
 
 <h3 align="left">A passionate frontend developer based in England</h3>
 
-
+<img align="center" alt="girl coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bb36b3171035425.6467bce5afe0d.png">
 - 🌱 I’m currently learning **Node.js and React**
 
 - 👨‍💻 All of my projects are available at [portfolio coming soon](portfolio coming soon)
