@@ -1,16 +1,27 @@
-### Hi there 👋
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://mir-s3-cdn-cf.behance.net/6c56b9ee9770c03ef3020199a36bd49a/6c8b5472-1025-45e5-ae28-dec6e0604816_rwc_271x0x2927x410x3200.png?h=0fd5d6ad0cfab3f6f65671c1dcedfb56)]
 
-<!--
-**milla56/milla56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Lubomila Lozanova, but you can call me Mila</h1>
+<h3 align="center">A passionate frontend developer based in England</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Node.js and React**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [portfolio coming soon](portfolio coming soon)
+
+- 📫 How to reach me **lubomila14@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/16wPZr0HDKNc37wzPJw1Gby4o_EkPzulF/view?usp=share_link](https://drive.google.com/file/d/16wPZr0HDKNc37wzPJw1Gby4o_EkPzulF/view?usp=share_link)
+
+- ⚡ Fun fact **I speak four languages: English, Spanish, Italian, and Bulgarian.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mila-lozanova-a97b62184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mila-lozanova-a97b62184" height="30" width="40" /></a>
+<a href="https://instagram.com/mila_lozanova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mila_lozanova" height="30" width="40" /></a>
+<a href="https://www.behance.net/lubomillozanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lubomillozanov" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milla56&show_icons=true&locale=en&layout=compact" alt="milla56" /></p>
+
