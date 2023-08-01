@@ -8,7 +8,7 @@
 <img align="center" alt="girl coding" width="250"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bb36b3171035425.6467bce5afe0d.png">
 - 🌱 I’m currently learning **Node.js and React**
 
-- 👨‍💻 All of my projects are available at [portfolio coming soon](portfolio coming soon)
+- 👨‍💻 All of my projects are available at https://milla56.github.io/Lubomila-s-React-Portfolio/ 
 
 - 📫 How to reach me **lubomila14@gmail.com**
 
